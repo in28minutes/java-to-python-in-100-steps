@@ -3,7 +3,7 @@
 ## Fastest way to Learn Python for Experienced Java Programmers
 
 ## Course Links
-- TODO
+- https://www.udemy.com/learn-python-programming-for-java-programmers/?couponCode=IN28MINUTES
 
 ## Installing Tools
 - TODO
